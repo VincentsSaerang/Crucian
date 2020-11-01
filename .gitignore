@@ -7,7 +7,6 @@ assets/json/config.json
 package-lock.json
 
 .idea
-.env
 
 *.pem
 
